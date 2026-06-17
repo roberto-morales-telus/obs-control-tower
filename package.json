@@ -1,6 +1,6 @@
 {
   "name": "obs-control-tower",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "AWS Observability Educational Site - Learn CloudWatch, Logs Insights, and X-Ray",
   "scripts": {
     "dev": "vite",
