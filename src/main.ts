@@ -7,7 +7,7 @@ import { renderWorkflowSection } from './components/workflow'
 import { renderXRaySection } from './components/xray'
 
 const root = document.querySelector<HTMLElement>('#app')
-
+//Make sure the root element exists before proceeding
 if (!root) {
   throw new Error('App root not found.')
 }
